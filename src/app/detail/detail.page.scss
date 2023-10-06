@@ -1,0 +1,58 @@
+.multi-type {
+    background: rgb(9,9,121);
+background: linear-gradient(45deg, #A8A77A 35%, #EE8130 100%);
+}
+.normal-type {
+    --background: #A8A77A;
+}
+.fire-type {
+    --background: #EE8130;
+}
+.water-type {
+    --background: #6390F0;
+}
+.electric-type {
+    --background: #F7D02C;
+}
+.grass-type {
+    --background: #7AC74C;
+}
+.ice-type {
+    --background: #96D9D6;
+}
+.fighting-type {
+    --background: #C22E28;
+}
+.poison-type {
+    --background: #A33EA1;
+}
+.ground-type {
+    --background: #E2BF65;
+}
+.flying-type {
+    --background: #A98FF3;
+}
+.psychic-type {
+    --background: #F95587;
+}
+.bug-type {
+    --background: #A6B91A;
+}
+.rock-type {
+    --background: #B6A136;
+}
+.ghost-type {
+    --background: #735797;
+}
+.dragon-type {
+    --background: #6F35FC;
+}
+.dark-type {
+    --background: #705746;
+}
+.steel-type {
+    --background: #B7B7CE;
+}
+.fairy-type {
+    --background: #D685AD;
+}
